@@ -257,7 +257,7 @@ input[placeholder="Search.."]{
 	width: 130px;
 	border: 2px solid #ccc;
 	border-radius: 4px;
-	background-image: url('../images/search.png');
+	background-image: url('../images/search.PNG');
 	background-position: left center;
 	background-repeat: no-repeat;
 	padding: 12px 20px 12px 40px;
